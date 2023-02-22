@@ -1,5 +1,7 @@
-👋 Hi, I’m Gonçalo Caraça
+👋 Hi, I’m Gonçalo Caraça.
+
 👀 I’m interested in Network, Cyber Security and Python.
+
 🌱 I’m currently learning Python, HTML, CSS, Javascript and Network.
 
 <!---
