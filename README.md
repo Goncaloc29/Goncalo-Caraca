@@ -1,8 +1,8 @@
 👋 Hi, I’m Gonçalo Caraça.
 
-👀 I’m interested in Network, Cyber Security and Python.
+👀 I’m interested in Network, Cyber Security and Automation.
 
-🌱 I’m currently learning Python, HTML, CSS, Javascript and Network.
+🌱 "I'm currently pursuing a master's degree in IT Network Manager, my CCNA and my CCNP."
 
 <!---
 Goncaloc29/Goncaloc29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
