@@ -1,6 +1,6 @@
 👋 Hi, I’m Gonçalo Caraça.
 
-👀 I’m interested in Network, Cyber Security and Automation.
+👀 I’m interested in Network, Cyber Security, IT/OT and Automation.
 
 🌱 I'm currently pursuing a master's degree in IT Network Manager, my CCNA and my CCNP.
 
